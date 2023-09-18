@@ -6,7 +6,7 @@
         "Height": "Fill container",
         "Width": "Fill container",
         "Layout": "column",
-        "BackgroundColor": "rgba(155, 126, 182, 1)",
+        "BackgroundColor": "rgba(156, 33, 47, 1)",
         "Justification": "center",
         "Alignment": "center",
         "Visible": true,
@@ -31,7 +31,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(155, 126, 182, 1)"
+            "backgroundColor": "rgba(156, 33, 47, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -97,7 +97,7 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Sean's Camera App",
+                "Text": "Sean's Camera App V2",
                 "FontSize": 24,
                 "CustomFont": "",
                 "LineHeight": 1,
@@ -151,7 +151,7 @@
                 "ParentId": "28ebfa50-cf65-4ff9-a192-2b0e5ca4cdbc",
                 "position": "absolute",
                 "edgeOffsets": 11,
-                "children": "Sean's Camera App",
+                "children": "Sean's Camera App V2",
                 "FontWeight": "bold",
                 "Font": "Abril Fatface",
                 "TextAlign": "center"
